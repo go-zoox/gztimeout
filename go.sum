@@ -2,8 +2,8 @@ github.com/cpuguy83/go-md2man/v2 v2.0.2 h1:p1EgwI/C7NhT0JmVkwCD2ZBK8j4aeHQX2pMHH
 github.com/cpuguy83/go-md2man/v2 v2.0.2/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/go-zoox/cli v1.0.10 h1:guifbeAJHjhW6m5P+CXQ3ubVO0dqIEq/jhArNUC0930=
 github.com/go-zoox/cli v1.0.10/go.mod h1:e26mNwc/G1eM6TjoBs2/0PRZTj7NZtoO0WZDXtg82iY=
-github.com/go-zoox/command v1.0.1 h1:DO+94jp/kaD/BJEPtwDgaTO7DpxipX9rVfu6bMZcNfE=
-github.com/go-zoox/command v1.0.1/go.mod h1:IWGeRGf5YqftPTL2xHoeFr8uIw3KJby6wteWaVE5L2o=
+github.com/go-zoox/command v1.0.2 h1:psd75kh0yPStg+TRdkaWAZPC+stOyXQ0aJaBJGR1RJU=
+github.com/go-zoox/command v1.0.2/go.mod h1:IWGeRGf5YqftPTL2xHoeFr8uIw3KJby6wteWaVE5L2o=
 github.com/go-zoox/core-utils v1.0.4 h1:hkED3IlciYfTYnk7LrO+lBGC/+I1KSjQpJL6+K1v7Rg=
 github.com/go-zoox/testify v1.0.0 h1:zXuj+JMcudM/dWk8HgMfCKpGYDcyHbTUBGxH35SGubU=
 github.com/go-zoox/timeout v1.0.3 h1:QDPMMs3VLunD8mluy3SZ98FVFXGnIcdn8hoWHKZMv0w=

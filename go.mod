@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/go-zoox/cli v1.0.10
-	github.com/go-zoox/command v1.0.1
+	github.com/go-zoox/command v1.0.2
 	github.com/go-zoox/timeout v1.0.3
 )
 
